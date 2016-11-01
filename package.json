@@ -1,0 +1,30 @@
+{
+  "name": "j5-example",
+  "description": "A hubot script that does the things",
+  "version": "0.0.0",
+  "author": "Jon@TechDecaf.com",
+  "license": "MIT",
+
+  "keywords": ["hubot","hubot-scripts"],
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+
+  "main": "index.js",
+
+  "scripts": {
+    "test": "./script/test"
+  }
+}
